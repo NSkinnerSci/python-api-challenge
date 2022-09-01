@@ -1,0 +1,7 @@
+WeatherPy Analysis
+
+Three Observations:
+
+1. An increase in the absolute latitude value leads to a decrease in max temperature.
+2. Latitude had no effect on wind speed, cloudiness or humidity
+3. Despite some locations having a relative humidity of 100%, no locations had a relative humidity of less than 13%. The average humidity was 71%, which is considered high humidty (above 60%)
